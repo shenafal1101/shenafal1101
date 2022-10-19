@@ -14,6 +14,7 @@
 ![Fiddler](https://img.shields.io/badge/Fiddler-black?style=for-the-badge)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-black?style=for-the-badge)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-black?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
+![ADB](https://img.shields.io/badge/ADB-black?style=for-the-badge&logo=android&logoColor=3DDC84)
 ![Xcode](https://img.shields.io/badge/Xcode-black?style=for-the-badge&logo=xcode&logoColor=147EFB)
 ### Virtualization:
 ![Oracle VM VirtualBox](https://img.shields.io/badge/Oracle_VM_VirtualBox-black?style=for-the-badge&logo=virtualbox&logoColor=183A61)
@@ -21,8 +22,8 @@
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase&logoColor=ffd54f)
 ![Amplitude](https://img.shields.io/badge/Amplitude-black?style=for-the-badge&logo=amplitude&logoColor=ffd54f)
 ### Databases / DBMS
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-black?style=for-the-badge&logo=microsoftsqlserver&logoColor=FF4040)
 ![MySQL](https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=mysql&logoColor=0074a3)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-black?style=for-the-badge&logo=microsoftsqlserver&logoColor=FF4040)
 ![DBeaver](https://img.shields.io/badge/DBeaver-black?style=for-the-badge)
 ### Other
 ![Command Line](https://img.shields.io/badge/Command_Line-black?style=for-the-badge&logo=windowsterminal&logoColor=4D4D4D)
